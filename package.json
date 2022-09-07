@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "countries": "^1.0.2"
+  },
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "testing json TP1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NachoXS15/TP1GIT.git"
+  },
+  "author": "Ignacio Pantoja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NachoXS15/TP1GIT/issues"
+  },
+  "homepage": "https://github.com/NachoXS15/TP1GIT#readme"
+}
